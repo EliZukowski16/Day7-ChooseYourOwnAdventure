@@ -1,0 +1,46 @@
+You find yourself standing outside of a large house, there is a forest to your left.:3
+A) Enter the house:00168
+B) Walk towards the forest:01520
+C) Head home:02145
+Entering the house, it looks like it has been empty for a long time.:N
+A long hallway extends in front of you and a darkened room is to your right.:3
+A) Walk down the hallway:00411
+B) Enter the darkened room:01121
+C) Exit the house:00000
+You follow the hallway and it eventually ends in the kitchen of the house.:N
+You see, partially covered by a rug, what appears to be a trap door in the floor.:2
+A) Pull back the rug and open the trap door:00684
+B) Leave the kitchen and walk back down the hallway:00240
+You move the rug aside and pull open the trap door in the floor.:N
+You see a ladder descending into a darkened room.:2
+A) Take the ladder down:00888
+B) Close the trap door and leave the kitchen:00240
+You carefully proceed down the ladder.:N
+The room is pitch black.  You are likely to be eaten by a grue.:2
+A) Explore the room:01058
+B) Head back up the ladder:00752
+You have been eaten by a grue.:N
+Your adventure has ended.:X
+You enter the darkened room.:N
+Along the far wall is a television.  It is turned on, but only showing static.:2
+A) Turn the television off and leave the room:00240
+B) Explore the darkened room:01324
+You explore the darkened room.:N
+You find nothing else interesting in the room besides the television.:2
+A) Turn the television off and leave the room:00240
+B) Explore the darkened room:01358
+As you walk towards the forest, you see the start of a path.:N
+The path looks dark and winding.:2
+A) Take the path into the forest:01693
+B) Walk back to the house:00000
+As you walk down the path, the forest feels like it is closing in around you.:N
+You feel like your being watched.:2
+A) Keep walking down the path:01899
+B) Leave the forest and return to the house:00000
+The path eventually leads you to a small clearing in the forest.:N
+In the center of a clearing is a small bench.:2
+A) Sit on the bench:02102
+B) Leave the forest and walk back towards the house:00000
+You sit on the bench for several hours.:N
+Eventually the sun begins to set and you decide to head home.:N
+Your adventure has ended.:X
